@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Default Light Modern",
+    "explorer.confirmDelete": false,
+    "cmake.showOptionsMovedNotification": false,
+    "cortex-debug.armToolchainPath": "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\13.2 Rel1\\bin",
+    "cortex-debug.openocdPath": "C:\\OpenOCD\\bin\\openocd.exe",
+    "cortex-debug.gdbPath": "C:\\Program Files (x86)\\Arm GNU Toolchain arm-none-eabi\\13.2 Rel1\\bin\\arm-none-eabi-gdb.exe",
+    "cmake.configureSettings": {},
+    "cmake.configureOnOpen": false,
+    "cmake.loggingLevel":"trace",
+    "cmake.buildDirectory": "${workspaceFolder}/.out/${buildKit}/${buildKitTargetOs}-${buildKitTargetArch}/${buildType}",
+    "cmake.debugConfig": {
+      "all": {
+        "cwd": "${workspaceRoot}"
+      }
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "cmake.pinnedCommands": [
+      "workbench.action.tasks.configureTaskRunner",
+      "workbench.action.tasks.runTask"
+    ],
+    "stm32-for-vscode.openOCDPath": "C:\\OPENOCD\\BIN\\OPENOCD.EXE",
+    "stm32-for-vscode.makePath": "C:\\MINGW\\BIN\\MAKE.EXE",
+    "stm32-for-vscode.armToolchainPath": "C:\\PROGRAM FILES (X86)\\ARM GNU TOOLCHAIN ARM-NONE-EABI\\13.2 REL1\\BIN",
+    "debug.onTaskErrors": "abort",
+}
